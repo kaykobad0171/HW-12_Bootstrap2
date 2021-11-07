@@ -5,3 +5,8 @@
 	margin-bottom: 20px;
 }
 
+.alert-info {
+	color: #fff;
+	background-color: #f00;
+	border-color: #dc4343;
+}
